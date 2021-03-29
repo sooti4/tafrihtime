@@ -1,6 +1,8 @@
 	@font-face{
 		font-family: 'koodak';
-		src:url('../fonts/koodakBold.eot?#')format('eot'),
+		src:local('bkoodak'),
+		local('b koodak'),
+			url('../fonts/koodakBold.eot?#')format('eot'),
 		url('../fonts/koodakBold.ttf')format('truetype'),
 		url('../fonts/koodakBold.woff')format('woff');
 		font-weight: normal;
@@ -9,7 +11,9 @@
 		}
 		@font-face{
 		font-family: 'nazanin';
-		src:url('../fonts/Nazanin.eot?#')format('eot'),
+		src:local('bnazanin'),
+		local('b nazanin'),
+			url('../fonts/Nazanin.eot?#')format('eot'),
 		url('../fonts/Nazanin.ttf')format('truetype'),
 		url('../fonts/Nazanin.woff')format('woff');
 		font-weight: normal;
