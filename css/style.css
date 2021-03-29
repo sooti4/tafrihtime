@@ -1,7 +1,7 @@
 	@font-face{
 		font-family: 'koodak';
-		src:local('bKoodak'),
-		local('b Koodak'),
+		src:local('Koodak'),
+		local(' Koodak'),
 			url('../fonts/koodakBold.eot?#')format('eot'),
 		url('../fonts/koodakBold.ttf')format('truetype'),
 		url('../fonts/koodakBold.woff')format('woff');
@@ -11,8 +11,8 @@
 		}
 		@font-face{
 		font-family: 'nazanin';
-		src:local('bNazanin'),
-		local('b Nazanin'),
+		src:local('Nazanin'),
+		local(' Nazanin'),
 			url('../fonts/Nazanin.eot?#')format('eot'),
 		url('../fonts/Nazanin.ttf')format('truetype'),
 		url('../fonts/Nazanin.woff')format('woff');
